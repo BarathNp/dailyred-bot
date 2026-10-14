@@ -80,9 +80,9 @@ You can also build the link in the portal: **OAuth2 → URL Generator**, tick `b
 
 ## 3. Run it on Windows
 
-1. **Install Python 3.10 or newer** from https://www.python.org/downloads/. In the installer, tick **"Add python.exe to PATH"**.
+1. **Install Python 3.9 or newer** from https://www.python.org/downloads/ (check with `python --version`). In the installer, tick **"Add python.exe to PATH"**.
 2. **Download the bot:** on GitHub click **Code → Download ZIP** and unzip it, e.g. to `C:\dailyred-bot`. (Or `git clone` it.)
-3. **Open a terminal in that folder:** in File Explorer, open the folder, click the address bar, type `cmd` and press Enter. Then run:
+3. **Open a terminal in that folder:** in File Explorer, open the folder, click the address bar, type `cmd` and press Enter. Or, in any Command Prompt, run `cd /d C:\dailyred-bot`. The prompt should end in `dailyred-bot>`, and **every command below must be run from there**. Then run:
 
    ```bat
    python -m venv .venv
@@ -102,11 +102,15 @@ You can also build the link in the portal: **OAuth2 → URL Generator**, tick `b
    ```
 
    `TZ` is your time zone name, from [this list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) (e.g. `Europe/London`, `Asia/Kolkata`, `Australia/Sydney`). `POST_TIME` is in 24-hour time.
-5. **Check it can read the site** (no Discord needed):
+5. **Check it can read the site** (no Discord needed). In a new Command Prompt window, first go back to the folder and turn the virtual environment back on:
 
    ```bat
+   cd /d C:\dailyred-bot
+   .venv\Scripts\activate
    python -m dailyred.check
    ```
+
+   Your prompt starts with `(.venv)` when the virtual environment is on.
 
    You should see today's six Pokémon and Red's team. Compare them with https://daily-red.com/.
 6. **Start the bot:**
@@ -191,6 +195,8 @@ All settings come from environment variables (or `.env` locally):
 
 ## Troubleshooting
 
+- **`No module named 'dailyred'`**: you're not in the bot's folder. Run `cd /d C:\dailyred-bot` (your path) first. The folder must contain `bot.py` (check with `dir`).
+- **`No module named 'discord'` / `'playwright'` / `'dotenv'`**: the virtual environment isn't on. Run `.venv\Scripts\activate` in the bot's folder; your prompt should start with `(.venv)`.
 - **`Config error: DISCORD_TOKEN is missing`**: you haven't created `.env` (step 3.4), or the line is empty.
 - **`discord.errors.LoginFailure: Improper token`**: the token is wrong or was reset. Copy a new one from the portal.
 - **Slash commands don't show up**: wait a minute and restart Discord. Check the invite link included `applications.commands` (re-invite if not; it doesn't remove anything).

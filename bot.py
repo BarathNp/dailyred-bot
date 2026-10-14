@@ -9,6 +9,7 @@ from __future__ import annotations
 import asyncio
 import logging
 import sys
+from typing import Optional
 
 import discord
 from discord import app_commands
@@ -137,7 +138,9 @@ class DailyRedCommands(app_commands.Group):
     @app_commands.checks.has_permissions(administrator=True)
     @app_commands.guild_only()
     async def setchannel(self, interaction: discord.Interaction,
-                         channel: discord.TextChannel | None = None) -> None:
+                         channel: Optional[discord.TextChannel] = None) -> None:
+        # Optional[...] rather than "| None": discord.py evaluates this
+        # annotation at runtime, and Python 3.9 doesn't support "X | None".
         channel = channel or interaction.channel
         if not isinstance(channel, discord.TextChannel):
             await interaction.response.send_message("Pick a text channel.", ephemeral=True)
