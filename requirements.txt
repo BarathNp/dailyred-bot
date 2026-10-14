@@ -1,0 +1,6 @@
+discord.py==2.6.4
+# Keep this in step with the image tag in Dockerfile.
+playwright==1.56.0
+python-dotenv==1.1.1
+# Time zone data for Windows (Linux/macOS already have it).
+tzdata>=2024.1

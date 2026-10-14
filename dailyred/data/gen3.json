@@ -1,0 +1,3641 @@
+{
+"source": "PokeAPI (https://github.com/PokeAPI/pokeapi), CC BY-NC-SA / BSD data",
+"pokemon": [
+{
+"id": 1,
+"name": "Bulbasaur",
+"types": [
+"Grass",
+"Poison"
+]
+},
+{
+"id": 2,
+"name": "Ivysaur",
+"types": [
+"Grass",
+"Poison"
+]
+},
+{
+"id": 3,
+"name": "Venusaur",
+"types": [
+"Grass",
+"Poison"
+]
+},
+{
+"id": 4,
+"name": "Charmander",
+"types": [
+"Fire"
+]
+},
+{
+"id": 5,
+"name": "Charmeleon",
+"types": [
+"Fire"
+]
+},
+{
+"id": 6,
+"name": "Charizard",
+"types": [
+"Fire",
+"Flying"
+]
+},
+{
+"id": 7,
+"name": "Squirtle",
+"types": [
+"Water"
+]
+},
+{
+"id": 8,
+"name": "Wartortle",
+"types": [
+"Water"
+]
+},
+{
+"id": 9,
+"name": "Blastoise",
+"types": [
+"Water"
+]
+},
+{
+"id": 10,
+"name": "Caterpie",
+"types": [
+"Bug"
+]
+},
+{
+"id": 11,
+"name": "Metapod",
+"types": [
+"Bug"
+]
+},
+{
+"id": 12,
+"name": "Butterfree",
+"types": [
+"Bug",
+"Flying"
+]
+},
+{
+"id": 13,
+"name": "Weedle",
+"types": [
+"Bug",
+"Poison"
+]
+},
+{
+"id": 14,
+"name": "Kakuna",
+"types": [
+"Bug",
+"Poison"
+]
+},
+{
+"id": 15,
+"name": "Beedrill",
+"types": [
+"Bug",
+"Poison"
+]
+},
+{
+"id": 16,
+"name": "Pidgey",
+"types": [
+"Normal",
+"Flying"
+]
+},
+{
+"id": 17,
+"name": "Pidgeotto",
+"types": [
+"Normal",
+"Flying"
+]
+},
+{
+"id": 18,
+"name": "Pidgeot",
+"types": [
+"Normal",
+"Flying"
+]
+},
+{
+"id": 19,
+"name": "Rattata",
+"types": [
+"Normal"
+]
+},
+{
+"id": 20,
+"name": "Raticate",
+"types": [
+"Normal"
+]
+},
+{
+"id": 21,
+"name": "Spearow",
+"types": [
+"Normal",
+"Flying"
+]
+},
+{
+"id": 22,
+"name": "Fearow",
+"types": [
+"Normal",
+"Flying"
+]
+},
+{
+"id": 23,
+"name": "Ekans",
+"types": [
+"Poison"
+]
+},
+{
+"id": 24,
+"name": "Arbok",
+"types": [
+"Poison"
+]
+},
+{
+"id": 25,
+"name": "Pikachu",
+"types": [
+"Electric"
+]
+},
+{
+"id": 26,
+"name": "Raichu",
+"types": [
+"Electric"
+]
+},
+{
+"id": 27,
+"name": "Sandshrew",
+"types": [
+"Ground"
+]
+},
+{
+"id": 28,
+"name": "Sandslash",
+"types": [
+"Ground"
+]
+},
+{
+"id": 29,
+"name": "Nidoran♀",
+"types": [
+"Poison"
+]
+},
+{
+"id": 30,
+"name": "Nidorina",
+"types": [
+"Poison"
+]
+},
+{
+"id": 31,
+"name": "Nidoqueen",
+"types": [
+"Poison",
+"Ground"
+]
+},
+{
+"id": 32,
+"name": "Nidoran♂",
+"types": [
+"Poison"
+]
+},
+{
+"id": 33,
+"name": "Nidorino",
+"types": [
+"Poison"
+]
+},
+{
+"id": 34,
+"name": "Nidoking",
+"types": [
+"Poison",
+"Ground"
+]
+},
+{
+"id": 35,
+"name": "Clefairy",
+"types": [
+"Normal"
+]
+},
+{
+"id": 36,
+"name": "Clefable",
+"types": [
+"Normal"
+]
+},
+{
+"id": 37,
+"name": "Vulpix",
+"types": [
+"Fire"
+]
+},
+{
+"id": 38,
+"name": "Ninetales",
+"types": [
+"Fire"
+]
+},
+{
+"id": 39,
+"name": "Jigglypuff",
+"types": [
+"Normal"
+]
+},
+{
+"id": 40,
+"name": "Wigglytuff",
+"types": [
+"Normal"
+]
+},
+{
+"id": 41,
+"name": "Zubat",
+"types": [
+"Poison",
+"Flying"
+]
+},
+{
+"id": 42,
+"name": "Golbat",
+"types": [
+"Poison",
+"Flying"
+]
+},
+{
+"id": 43,
+"name": "Oddish",
+"types": [
+"Grass",
+"Poison"
+]
+},
+{
+"id": 44,
+"name": "Gloom",
+"types": [
+"Grass",
+"Poison"
+]
+},
+{
+"id": 45,
+"name": "Vileplume",
+"types": [
+"Grass",
+"Poison"
+]
+},
+{
+"id": 46,
+"name": "Paras",
+"types": [
+"Bug",
+"Grass"
+]
+},
+{
+"id": 47,
+"name": "Parasect",
+"types": [
+"Bug",
+"Grass"
+]
+},
+{
+"id": 48,
+"name": "Venonat",
+"types": [
+"Bug",
+"Poison"
+]
+},
+{
+"id": 49,
+"name": "Venomoth",
+"types": [
+"Bug",
+"Poison"
+]
+},
+{
+"id": 50,
+"name": "Diglett",
+"types": [
+"Ground"
+]
+},
+{
+"id": 51,
+"name": "Dugtrio",
+"types": [
+"Ground"
+]
+},
+{
+"id": 52,
+"name": "Meowth",
+"types": [
+"Normal"
+]
+},
+{
+"id": 53,
+"name": "Persian",
+"types": [
+"Normal"
+]
+},
+{
+"id": 54,
+"name": "Psyduck",
+"types": [
+"Water"
+]
+},
+{
+"id": 55,
+"name": "Golduck",
+"types": [
+"Water"
+]
+},
+{
+"id": 56,
+"name": "Mankey",
+"types": [
+"Fighting"
+]
+},
+{
+"id": 57,
+"name": "Primeape",
+"types": [
+"Fighting"
+]
+},
+{
+"id": 58,
+"name": "Growlithe",
+"types": [
+"Fire"
+]
+},
+{
+"id": 59,
+"name": "Arcanine",
+"types": [
+"Fire"
+]
+},
+{
+"id": 60,
+"name": "Poliwag",
+"types": [
+"Water"
+]
+},
+{
+"id": 61,
+"name": "Poliwhirl",
+"types": [
+"Water"
+]
+},
+{
+"id": 62,
+"name": "Poliwrath",
+"types": [
+"Water",
+"Fighting"
+]
+},
+{
+"id": 63,
+"name": "Abra",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 64,
+"name": "Kadabra",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 65,
+"name": "Alakazam",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 66,
+"name": "Machop",
+"types": [
+"Fighting"
+]
+},
+{
+"id": 67,
+"name": "Machoke",
+"types": [
+"Fighting"
+]
+},
+{
+"id": 68,
+"name": "Machamp",
+"types": [
+"Fighting"
+]
+},
+{
+"id": 69,
+"name": "Bellsprout",
+"types": [
+"Grass",
+"Poison"
+]
+},
+{
+"id": 70,
+"name": "Weepinbell",
+"types": [
+"Grass",
+"Poison"
+]
+},
+{
+"id": 71,
+"name": "Victreebel",
+"types": [
+"Grass",
+"Poison"
+]
+},
+{
+"id": 72,
+"name": "Tentacool",
+"types": [
+"Water",
+"Poison"
+]
+},
+{
+"id": 73,
+"name": "Tentacruel",
+"types": [
+"Water",
+"Poison"
+]
+},
+{
+"id": 74,
+"name": "Geodude",
+"types": [
+"Rock",
+"Ground"
+]
+},
+{
+"id": 75,
+"name": "Graveler",
+"types": [
+"Rock",
+"Ground"
+]
+},
+{
+"id": 76,
+"name": "Golem",
+"types": [
+"Rock",
+"Ground"
+]
+},
+{
+"id": 77,
+"name": "Ponyta",
+"types": [
+"Fire"
+]
+},
+{
+"id": 78,
+"name": "Rapidash",
+"types": [
+"Fire"
+]
+},
+{
+"id": 79,
+"name": "Slowpoke",
+"types": [
+"Water",
+"Psychic"
+]
+},
+{
+"id": 80,
+"name": "Slowbro",
+"types": [
+"Water",
+"Psychic"
+]
+},
+{
+"id": 81,
+"name": "Magnemite",
+"types": [
+"Electric",
+"Steel"
+]
+},
+{
+"id": 82,
+"name": "Magneton",
+"types": [
+"Electric",
+"Steel"
+]
+},
+{
+"id": 83,
+"name": "Farfetch’d",
+"types": [
+"Normal",
+"Flying"
+]
+},
+{
+"id": 84,
+"name": "Doduo",
+"types": [
+"Normal",
+"Flying"
+]
+},
+{
+"id": 85,
+"name": "Dodrio",
+"types": [
+"Normal",
+"Flying"
+]
+},
+{
+"id": 86,
+"name": "Seel",
+"types": [
+"Water"
+]
+},
+{
+"id": 87,
+"name": "Dewgong",
+"types": [
+"Water",
+"Ice"
+]
+},
+{
+"id": 88,
+"name": "Grimer",
+"types": [
+"Poison"
+]
+},
+{
+"id": 89,
+"name": "Muk",
+"types": [
+"Poison"
+]
+},
+{
+"id": 90,
+"name": "Shellder",
+"types": [
+"Water"
+]
+},
+{
+"id": 91,
+"name": "Cloyster",
+"types": [
+"Water",
+"Ice"
+]
+},
+{
+"id": 92,
+"name": "Gastly",
+"types": [
+"Ghost",
+"Poison"
+]
+},
+{
+"id": 93,
+"name": "Haunter",
+"types": [
+"Ghost",
+"Poison"
+]
+},
+{
+"id": 94,
+"name": "Gengar",
+"types": [
+"Ghost",
+"Poison"
+]
+},
+{
+"id": 95,
+"name": "Onix",
+"types": [
+"Rock",
+"Ground"
+]
+},
+{
+"id": 96,
+"name": "Drowzee",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 97,
+"name": "Hypno",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 98,
+"name": "Krabby",
+"types": [
+"Water"
+]
+},
+{
+"id": 99,
+"name": "Kingler",
+"types": [
+"Water"
+]
+},
+{
+"id": 100,
+"name": "Voltorb",
+"types": [
+"Electric"
+]
+},
+{
+"id": 101,
+"name": "Electrode",
+"types": [
+"Electric"
+]
+},
+{
+"id": 102,
+"name": "Exeggcute",
+"types": [
+"Grass",
+"Psychic"
+]
+},
+{
+"id": 103,
+"name": "Exeggutor",
+"types": [
+"Grass",
+"Psychic"
+]
+},
+{
+"id": 104,
+"name": "Cubone",
+"types": [
+"Ground"
+]
+},
+{
+"id": 105,
+"name": "Marowak",
+"types": [
+"Ground"
+]
+},
+{
+"id": 106,
+"name": "Hitmonlee",
+"types": [
+"Fighting"
+]
+},
+{
+"id": 107,
+"name": "Hitmonchan",
+"types": [
+"Fighting"
+]
+},
+{
+"id": 108,
+"name": "Lickitung",
+"types": [
+"Normal"
+]
+},
+{
+"id": 109,
+"name": "Koffing",
+"types": [
+"Poison"
+]
+},
+{
+"id": 110,
+"name": "Weezing",
+"types": [
+"Poison"
+]
+},
+{
+"id": 111,
+"name": "Rhyhorn",
+"types": [
+"Ground",
+"Rock"
+]
+},
+{
+"id": 112,
+"name": "Rhydon",
+"types": [
+"Ground",
+"Rock"
+]
+},
+{
+"id": 113,
+"name": "Chansey",
+"types": [
+"Normal"
+]
+},
+{
+"id": 114,
+"name": "Tangela",
+"types": [
+"Grass"
+]
+},
+{
+"id": 115,
+"name": "Kangaskhan",
+"types": [
+"Normal"
+]
+},
+{
+"id": 116,
+"name": "Horsea",
+"types": [
+"Water"
+]
+},
+{
+"id": 117,
+"name": "Seadra",
+"types": [
+"Water"
+]
+},
+{
+"id": 118,
+"name": "Goldeen",
+"types": [
+"Water"
+]
+},
+{
+"id": 119,
+"name": "Seaking",
+"types": [
+"Water"
+]
+},
+{
+"id": 120,
+"name": "Staryu",
+"types": [
+"Water"
+]
+},
+{
+"id": 121,
+"name": "Starmie",
+"types": [
+"Water",
+"Psychic"
+]
+},
+{
+"id": 122,
+"name": "Mr. Mime",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 123,
+"name": "Scyther",
+"types": [
+"Bug",
+"Flying"
+]
+},
+{
+"id": 124,
+"name": "Jynx",
+"types": [
+"Ice",
+"Psychic"
+]
+},
+{
+"id": 125,
+"name": "Electabuzz",
+"types": [
+"Electric"
+]
+},
+{
+"id": 126,
+"name": "Magmar",
+"types": [
+"Fire"
+]
+},
+{
+"id": 127,
+"name": "Pinsir",
+"types": [
+"Bug"
+]
+},
+{
+"id": 128,
+"name": "Tauros",
+"types": [
+"Normal"
+]
+},
+{
+"id": 129,
+"name": "Magikarp",
+"types": [
+"Water"
+]
+},
+{
+"id": 130,
+"name": "Gyarados",
+"types": [
+"Water",
+"Flying"
+]
+},
+{
+"id": 131,
+"name": "Lapras",
+"types": [
+"Water",
+"Ice"
+]
+},
+{
+"id": 132,
+"name": "Ditto",
+"types": [
+"Normal"
+]
+},
+{
+"id": 133,
+"name": "Eevee",
+"types": [
+"Normal"
+]
+},
+{
+"id": 134,
+"name": "Vaporeon",
+"types": [
+"Water"
+]
+},
+{
+"id": 135,
+"name": "Jolteon",
+"types": [
+"Electric"
+]
+},
+{
+"id": 136,
+"name": "Flareon",
+"types": [
+"Fire"
+]
+},
+{
+"id": 137,
+"name": "Porygon",
+"types": [
+"Normal"
+]
+},
+{
+"id": 138,
+"name": "Omanyte",
+"types": [
+"Rock",
+"Water"
+]
+},
+{
+"id": 139,
+"name": "Omastar",
+"types": [
+"Rock",
+"Water"
+]
+},
+{
+"id": 140,
+"name": "Kabuto",
+"types": [
+"Rock",
+"Water"
+]
+},
+{
+"id": 141,
+"name": "Kabutops",
+"types": [
+"Rock",
+"Water"
+]
+},
+{
+"id": 142,
+"name": "Aerodactyl",
+"types": [
+"Rock",
+"Flying"
+]
+},
+{
+"id": 143,
+"name": "Snorlax",
+"types": [
+"Normal"
+]
+},
+{
+"id": 144,
+"name": "Articuno",
+"types": [
+"Ice",
+"Flying"
+]
+},
+{
+"id": 145,
+"name": "Zapdos",
+"types": [
+"Electric",
+"Flying"
+]
+},
+{
+"id": 146,
+"name": "Moltres",
+"types": [
+"Fire",
+"Flying"
+]
+},
+{
+"id": 147,
+"name": "Dratini",
+"types": [
+"Dragon"
+]
+},
+{
+"id": 148,
+"name": "Dragonair",
+"types": [
+"Dragon"
+]
+},
+{
+"id": 149,
+"name": "Dragonite",
+"types": [
+"Dragon",
+"Flying"
+]
+},
+{
+"id": 150,
+"name": "Mewtwo",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 151,
+"name": "Mew",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 152,
+"name": "Chikorita",
+"types": [
+"Grass"
+]
+},
+{
+"id": 153,
+"name": "Bayleef",
+"types": [
+"Grass"
+]
+},
+{
+"id": 154,
+"name": "Meganium",
+"types": [
+"Grass"
+]
+},
+{
+"id": 155,
+"name": "Cyndaquil",
+"types": [
+"Fire"
+]
+},
+{
+"id": 156,
+"name": "Quilava",
+"types": [
+"Fire"
+]
+},
+{
+"id": 157,
+"name": "Typhlosion",
+"types": [
+"Fire"
+]
+},
+{
+"id": 158,
+"name": "Totodile",
+"types": [
+"Water"
+]
+},
+{
+"id": 159,
+"name": "Croconaw",
+"types": [
+"Water"
+]
+},
+{
+"id": 160,
+"name": "Feraligatr",
+"types": [
+"Water"
+]
+},
+{
+"id": 161,
+"name": "Sentret",
+"types": [
+"Normal"
+]
+},
+{
+"id": 162,
+"name": "Furret",
+"types": [
+"Normal"
+]
+},
+{
+"id": 163,
+"name": "Hoothoot",
+"types": [
+"Normal",
+"Flying"
+]
+},
+{
+"id": 164,
+"name": "Noctowl",
+"types": [
+"Normal",
+"Flying"
+]
+},
+{
+"id": 165,
+"name": "Ledyba",
+"types": [
+"Bug",
+"Flying"
+]
+},
+{
+"id": 166,
+"name": "Ledian",
+"types": [
+"Bug",
+"Flying"
+]
+},
+{
+"id": 167,
+"name": "Spinarak",
+"types": [
+"Bug",
+"Poison"
+]
+},
+{
+"id": 168,
+"name": "Ariados",
+"types": [
+"Bug",
+"Poison"
+]
+},
+{
+"id": 169,
+"name": "Crobat",
+"types": [
+"Poison",
+"Flying"
+]
+},
+{
+"id": 170,
+"name": "Chinchou",
+"types": [
+"Water",
+"Electric"
+]
+},
+{
+"id": 171,
+"name": "Lanturn",
+"types": [
+"Water",
+"Electric"
+]
+},
+{
+"id": 172,
+"name": "Pichu",
+"types": [
+"Electric"
+]
+},
+{
+"id": 173,
+"name": "Cleffa",
+"types": [
+"Normal"
+]
+},
+{
+"id": 174,
+"name": "Igglybuff",
+"types": [
+"Normal"
+]
+},
+{
+"id": 175,
+"name": "Togepi",
+"types": [
+"Normal"
+]
+},
+{
+"id": 176,
+"name": "Togetic",
+"types": [
+"Normal",
+"Flying"
+]
+},
+{
+"id": 177,
+"name": "Natu",
+"types": [
+"Psychic",
+"Flying"
+]
+},
+{
+"id": 178,
+"name": "Xatu",
+"types": [
+"Psychic",
+"Flying"
+]
+},
+{
+"id": 179,
+"name": "Mareep",
+"types": [
+"Electric"
+]
+},
+{
+"id": 180,
+"name": "Flaaffy",
+"types": [
+"Electric"
+]
+},
+{
+"id": 181,
+"name": "Ampharos",
+"types": [
+"Electric"
+]
+},
+{
+"id": 182,
+"name": "Bellossom",
+"types": [
+"Grass"
+]
+},
+{
+"id": 183,
+"name": "Marill",
+"types": [
+"Water"
+]
+},
+{
+"id": 184,
+"name": "Azumarill",
+"types": [
+"Water"
+]
+},
+{
+"id": 185,
+"name": "Sudowoodo",
+"types": [
+"Rock"
+]
+},
+{
+"id": 186,
+"name": "Politoed",
+"types": [
+"Water"
+]
+},
+{
+"id": 187,
+"name": "Hoppip",
+"types": [
+"Grass",
+"Flying"
+]
+},
+{
+"id": 188,
+"name": "Skiploom",
+"types": [
+"Grass",
+"Flying"
+]
+},
+{
+"id": 189,
+"name": "Jumpluff",
+"types": [
+"Grass",
+"Flying"
+]
+},
+{
+"id": 190,
+"name": "Aipom",
+"types": [
+"Normal"
+]
+},
+{
+"id": 191,
+"name": "Sunkern",
+"types": [
+"Grass"
+]
+},
+{
+"id": 192,
+"name": "Sunflora",
+"types": [
+"Grass"
+]
+},
+{
+"id": 193,
+"name": "Yanma",
+"types": [
+"Bug",
+"Flying"
+]
+},
+{
+"id": 194,
+"name": "Wooper",
+"types": [
+"Water",
+"Ground"
+]
+},
+{
+"id": 195,
+"name": "Quagsire",
+"types": [
+"Water",
+"Ground"
+]
+},
+{
+"id": 196,
+"name": "Espeon",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 197,
+"name": "Umbreon",
+"types": [
+"Dark"
+]
+},
+{
+"id": 198,
+"name": "Murkrow",
+"types": [
+"Dark",
+"Flying"
+]
+},
+{
+"id": 199,
+"name": "Slowking",
+"types": [
+"Water",
+"Psychic"
+]
+},
+{
+"id": 200,
+"name": "Misdreavus",
+"types": [
+"Ghost"
+]
+},
+{
+"id": 201,
+"name": "Unown",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 202,
+"name": "Wobbuffet",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 203,
+"name": "Girafarig",
+"types": [
+"Normal",
+"Psychic"
+]
+},
+{
+"id": 204,
+"name": "Pineco",
+"types": [
+"Bug"
+]
+},
+{
+"id": 205,
+"name": "Forretress",
+"types": [
+"Bug",
+"Steel"
+]
+},
+{
+"id": 206,
+"name": "Dunsparce",
+"types": [
+"Normal"
+]
+},
+{
+"id": 207,
+"name": "Gligar",
+"types": [
+"Ground",
+"Flying"
+]
+},
+{
+"id": 208,
+"name": "Steelix",
+"types": [
+"Steel",
+"Ground"
+]
+},
+{
+"id": 209,
+"name": "Snubbull",
+"types": [
+"Normal"
+]
+},
+{
+"id": 210,
+"name": "Granbull",
+"types": [
+"Normal"
+]
+},
+{
+"id": 211,
+"name": "Qwilfish",
+"types": [
+"Water",
+"Poison"
+]
+},
+{
+"id": 212,
+"name": "Scizor",
+"types": [
+"Bug",
+"Steel"
+]
+},
+{
+"id": 213,
+"name": "Shuckle",
+"types": [
+"Bug",
+"Rock"
+]
+},
+{
+"id": 214,
+"name": "Heracross",
+"types": [
+"Bug",
+"Fighting"
+]
+},
+{
+"id": 215,
+"name": "Sneasel",
+"types": [
+"Dark",
+"Ice"
+]
+},
+{
+"id": 216,
+"name": "Teddiursa",
+"types": [
+"Normal"
+]
+},
+{
+"id": 217,
+"name": "Ursaring",
+"types": [
+"Normal"
+]
+},
+{
+"id": 218,
+"name": "Slugma",
+"types": [
+"Fire"
+]
+},
+{
+"id": 219,
+"name": "Magcargo",
+"types": [
+"Fire",
+"Rock"
+]
+},
+{
+"id": 220,
+"name": "Swinub",
+"types": [
+"Ice",
+"Ground"
+]
+},
+{
+"id": 221,
+"name": "Piloswine",
+"types": [
+"Ice",
+"Ground"
+]
+},
+{
+"id": 222,
+"name": "Corsola",
+"types": [
+"Water",
+"Rock"
+]
+},
+{
+"id": 223,
+"name": "Remoraid",
+"types": [
+"Water"
+]
+},
+{
+"id": 224,
+"name": "Octillery",
+"types": [
+"Water"
+]
+},
+{
+"id": 225,
+"name": "Delibird",
+"types": [
+"Ice",
+"Flying"
+]
+},
+{
+"id": 226,
+"name": "Mantine",
+"types": [
+"Water",
+"Flying"
+]
+},
+{
+"id": 227,
+"name": "Skarmory",
+"types": [
+"Steel",
+"Flying"
+]
+},
+{
+"id": 228,
+"name": "Houndour",
+"types": [
+"Dark",
+"Fire"
+]
+},
+{
+"id": 229,
+"name": "Houndoom",
+"types": [
+"Dark",
+"Fire"
+]
+},
+{
+"id": 230,
+"name": "Kingdra",
+"types": [
+"Water",
+"Dragon"
+]
+},
+{
+"id": 231,
+"name": "Phanpy",
+"types": [
+"Ground"
+]
+},
+{
+"id": 232,
+"name": "Donphan",
+"types": [
+"Ground"
+]
+},
+{
+"id": 233,
+"name": "Porygon2",
+"types": [
+"Normal"
+]
+},
+{
+"id": 234,
+"name": "Stantler",
+"types": [
+"Normal"
+]
+},
+{
+"id": 235,
+"name": "Smeargle",
+"types": [
+"Normal"
+]
+},
+{
+"id": 236,
+"name": "Tyrogue",
+"types": [
+"Fighting"
+]
+},
+{
+"id": 237,
+"name": "Hitmontop",
+"types": [
+"Fighting"
+]
+},
+{
+"id": 238,
+"name": "Smoochum",
+"types": [
+"Ice",
+"Psychic"
+]
+},
+{
+"id": 239,
+"name": "Elekid",
+"types": [
+"Electric"
+]
+},
+{
+"id": 240,
+"name": "Magby",
+"types": [
+"Fire"
+]
+},
+{
+"id": 241,
+"name": "Miltank",
+"types": [
+"Normal"
+]
+},
+{
+"id": 242,
+"name": "Blissey",
+"types": [
+"Normal"
+]
+},
+{
+"id": 243,
+"name": "Raikou",
+"types": [
+"Electric"
+]
+},
+{
+"id": 244,
+"name": "Entei",
+"types": [
+"Fire"
+]
+},
+{
+"id": 245,
+"name": "Suicune",
+"types": [
+"Water"
+]
+},
+{
+"id": 246,
+"name": "Larvitar",
+"types": [
+"Rock",
+"Ground"
+]
+},
+{
+"id": 247,
+"name": "Pupitar",
+"types": [
+"Rock",
+"Ground"
+]
+},
+{
+"id": 248,
+"name": "Tyranitar",
+"types": [
+"Rock",
+"Dark"
+]
+},
+{
+"id": 249,
+"name": "Lugia",
+"types": [
+"Psychic",
+"Flying"
+]
+},
+{
+"id": 250,
+"name": "Ho-Oh",
+"types": [
+"Fire",
+"Flying"
+]
+},
+{
+"id": 251,
+"name": "Celebi",
+"types": [
+"Psychic",
+"Grass"
+]
+},
+{
+"id": 252,
+"name": "Treecko",
+"types": [
+"Grass"
+]
+},
+{
+"id": 253,
+"name": "Grovyle",
+"types": [
+"Grass"
+]
+},
+{
+"id": 254,
+"name": "Sceptile",
+"types": [
+"Grass"
+]
+},
+{
+"id": 255,
+"name": "Torchic",
+"types": [
+"Fire"
+]
+},
+{
+"id": 256,
+"name": "Combusken",
+"types": [
+"Fire",
+"Fighting"
+]
+},
+{
+"id": 257,
+"name": "Blaziken",
+"types": [
+"Fire",
+"Fighting"
+]
+},
+{
+"id": 258,
+"name": "Mudkip",
+"types": [
+"Water"
+]
+},
+{
+"id": 259,
+"name": "Marshtomp",
+"types": [
+"Water",
+"Ground"
+]
+},
+{
+"id": 260,
+"name": "Swampert",
+"types": [
+"Water",
+"Ground"
+]
+},
+{
+"id": 261,
+"name": "Poochyena",
+"types": [
+"Dark"
+]
+},
+{
+"id": 262,
+"name": "Mightyena",
+"types": [
+"Dark"
+]
+},
+{
+"id": 263,
+"name": "Zigzagoon",
+"types": [
+"Normal"
+]
+},
+{
+"id": 264,
+"name": "Linoone",
+"types": [
+"Normal"
+]
+},
+{
+"id": 265,
+"name": "Wurmple",
+"types": [
+"Bug"
+]
+},
+{
+"id": 266,
+"name": "Silcoon",
+"types": [
+"Bug"
+]
+},
+{
+"id": 267,
+"name": "Beautifly",
+"types": [
+"Bug",
+"Flying"
+]
+},
+{
+"id": 268,
+"name": "Cascoon",
+"types": [
+"Bug"
+]
+},
+{
+"id": 269,
+"name": "Dustox",
+"types": [
+"Bug",
+"Poison"
+]
+},
+{
+"id": 270,
+"name": "Lotad",
+"types": [
+"Water",
+"Grass"
+]
+},
+{
+"id": 271,
+"name": "Lombre",
+"types": [
+"Water",
+"Grass"
+]
+},
+{
+"id": 272,
+"name": "Ludicolo",
+"types": [
+"Water",
+"Grass"
+]
+},
+{
+"id": 273,
+"name": "Seedot",
+"types": [
+"Grass"
+]
+},
+{
+"id": 274,
+"name": "Nuzleaf",
+"types": [
+"Grass",
+"Dark"
+]
+},
+{
+"id": 275,
+"name": "Shiftry",
+"types": [
+"Grass",
+"Dark"
+]
+},
+{
+"id": 276,
+"name": "Taillow",
+"types": [
+"Normal",
+"Flying"
+]
+},
+{
+"id": 277,
+"name": "Swellow",
+"types": [
+"Normal",
+"Flying"
+]
+},
+{
+"id": 278,
+"name": "Wingull",
+"types": [
+"Water",
+"Flying"
+]
+},
+{
+"id": 279,
+"name": "Pelipper",
+"types": [
+"Water",
+"Flying"
+]
+},
+{
+"id": 280,
+"name": "Ralts",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 281,
+"name": "Kirlia",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 282,
+"name": "Gardevoir",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 283,
+"name": "Surskit",
+"types": [
+"Bug",
+"Water"
+]
+},
+{
+"id": 284,
+"name": "Masquerain",
+"types": [
+"Bug",
+"Flying"
+]
+},
+{
+"id": 285,
+"name": "Shroomish",
+"types": [
+"Grass"
+]
+},
+{
+"id": 286,
+"name": "Breloom",
+"types": [
+"Grass",
+"Fighting"
+]
+},
+{
+"id": 287,
+"name": "Slakoth",
+"types": [
+"Normal"
+]
+},
+{
+"id": 288,
+"name": "Vigoroth",
+"types": [
+"Normal"
+]
+},
+{
+"id": 289,
+"name": "Slaking",
+"types": [
+"Normal"
+]
+},
+{
+"id": 290,
+"name": "Nincada",
+"types": [
+"Bug",
+"Ground"
+]
+},
+{
+"id": 291,
+"name": "Ninjask",
+"types": [
+"Bug",
+"Flying"
+]
+},
+{
+"id": 292,
+"name": "Shedinja",
+"types": [
+"Bug",
+"Ghost"
+]
+},
+{
+"id": 293,
+"name": "Whismur",
+"types": [
+"Normal"
+]
+},
+{
+"id": 294,
+"name": "Loudred",
+"types": [
+"Normal"
+]
+},
+{
+"id": 295,
+"name": "Exploud",
+"types": [
+"Normal"
+]
+},
+{
+"id": 296,
+"name": "Makuhita",
+"types": [
+"Fighting"
+]
+},
+{
+"id": 297,
+"name": "Hariyama",
+"types": [
+"Fighting"
+]
+},
+{
+"id": 298,
+"name": "Azurill",
+"types": [
+"Normal"
+]
+},
+{
+"id": 299,
+"name": "Nosepass",
+"types": [
+"Rock"
+]
+},
+{
+"id": 300,
+"name": "Skitty",
+"types": [
+"Normal"
+]
+},
+{
+"id": 301,
+"name": "Delcatty",
+"types": [
+"Normal"
+]
+},
+{
+"id": 302,
+"name": "Sableye",
+"types": [
+"Dark",
+"Ghost"
+]
+},
+{
+"id": 303,
+"name": "Mawile",
+"types": [
+"Steel"
+]
+},
+{
+"id": 304,
+"name": "Aron",
+"types": [
+"Steel",
+"Rock"
+]
+},
+{
+"id": 305,
+"name": "Lairon",
+"types": [
+"Steel",
+"Rock"
+]
+},
+{
+"id": 306,
+"name": "Aggron",
+"types": [
+"Steel",
+"Rock"
+]
+},
+{
+"id": 307,
+"name": "Meditite",
+"types": [
+"Fighting",
+"Psychic"
+]
+},
+{
+"id": 308,
+"name": "Medicham",
+"types": [
+"Fighting",
+"Psychic"
+]
+},
+{
+"id": 309,
+"name": "Electrike",
+"types": [
+"Electric"
+]
+},
+{
+"id": 310,
+"name": "Manectric",
+"types": [
+"Electric"
+]
+},
+{
+"id": 311,
+"name": "Plusle",
+"types": [
+"Electric"
+]
+},
+{
+"id": 312,
+"name": "Minun",
+"types": [
+"Electric"
+]
+},
+{
+"id": 313,
+"name": "Volbeat",
+"types": [
+"Bug"
+]
+},
+{
+"id": 314,
+"name": "Illumise",
+"types": [
+"Bug"
+]
+},
+{
+"id": 315,
+"name": "Roselia",
+"types": [
+"Grass",
+"Poison"
+]
+},
+{
+"id": 316,
+"name": "Gulpin",
+"types": [
+"Poison"
+]
+},
+{
+"id": 317,
+"name": "Swalot",
+"types": [
+"Poison"
+]
+},
+{
+"id": 318,
+"name": "Carvanha",
+"types": [
+"Water",
+"Dark"
+]
+},
+{
+"id": 319,
+"name": "Sharpedo",
+"types": [
+"Water",
+"Dark"
+]
+},
+{
+"id": 320,
+"name": "Wailmer",
+"types": [
+"Water"
+]
+},
+{
+"id": 321,
+"name": "Wailord",
+"types": [
+"Water"
+]
+},
+{
+"id": 322,
+"name": "Numel",
+"types": [
+"Fire",
+"Ground"
+]
+},
+{
+"id": 323,
+"name": "Camerupt",
+"types": [
+"Fire",
+"Ground"
+]
+},
+{
+"id": 324,
+"name": "Torkoal",
+"types": [
+"Fire"
+]
+},
+{
+"id": 325,
+"name": "Spoink",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 326,
+"name": "Grumpig",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 327,
+"name": "Spinda",
+"types": [
+"Normal"
+]
+},
+{
+"id": 328,
+"name": "Trapinch",
+"types": [
+"Ground"
+]
+},
+{
+"id": 329,
+"name": "Vibrava",
+"types": [
+"Ground",
+"Dragon"
+]
+},
+{
+"id": 330,
+"name": "Flygon",
+"types": [
+"Ground",
+"Dragon"
+]
+},
+{
+"id": 331,
+"name": "Cacnea",
+"types": [
+"Grass"
+]
+},
+{
+"id": 332,
+"name": "Cacturne",
+"types": [
+"Grass",
+"Dark"
+]
+},
+{
+"id": 333,
+"name": "Swablu",
+"types": [
+"Normal",
+"Flying"
+]
+},
+{
+"id": 334,
+"name": "Altaria",
+"types": [
+"Dragon",
+"Flying"
+]
+},
+{
+"id": 335,
+"name": "Zangoose",
+"types": [
+"Normal"
+]
+},
+{
+"id": 336,
+"name": "Seviper",
+"types": [
+"Poison"
+]
+},
+{
+"id": 337,
+"name": "Lunatone",
+"types": [
+"Rock",
+"Psychic"
+]
+},
+{
+"id": 338,
+"name": "Solrock",
+"types": [
+"Rock",
+"Psychic"
+]
+},
+{
+"id": 339,
+"name": "Barboach",
+"types": [
+"Water",
+"Ground"
+]
+},
+{
+"id": 340,
+"name": "Whiscash",
+"types": [
+"Water",
+"Ground"
+]
+},
+{
+"id": 341,
+"name": "Corphish",
+"types": [
+"Water"
+]
+},
+{
+"id": 342,
+"name": "Crawdaunt",
+"types": [
+"Water",
+"Dark"
+]
+},
+{
+"id": 343,
+"name": "Baltoy",
+"types": [
+"Ground",
+"Psychic"
+]
+},
+{
+"id": 344,
+"name": "Claydol",
+"types": [
+"Ground",
+"Psychic"
+]
+},
+{
+"id": 345,
+"name": "Lileep",
+"types": [
+"Rock",
+"Grass"
+]
+},
+{
+"id": 346,
+"name": "Cradily",
+"types": [
+"Rock",
+"Grass"
+]
+},
+{
+"id": 347,
+"name": "Anorith",
+"types": [
+"Rock",
+"Bug"
+]
+},
+{
+"id": 348,
+"name": "Armaldo",
+"types": [
+"Rock",
+"Bug"
+]
+},
+{
+"id": 349,
+"name": "Feebas",
+"types": [
+"Water"
+]
+},
+{
+"id": 350,
+"name": "Milotic",
+"types": [
+"Water"
+]
+},
+{
+"id": 351,
+"name": "Castform",
+"types": [
+"Normal"
+]
+},
+{
+"id": 352,
+"name": "Kecleon",
+"types": [
+"Normal"
+]
+},
+{
+"id": 353,
+"name": "Shuppet",
+"types": [
+"Ghost"
+]
+},
+{
+"id": 354,
+"name": "Banette",
+"types": [
+"Ghost"
+]
+},
+{
+"id": 355,
+"name": "Duskull",
+"types": [
+"Ghost"
+]
+},
+{
+"id": 356,
+"name": "Dusclops",
+"types": [
+"Ghost"
+]
+},
+{
+"id": 357,
+"name": "Tropius",
+"types": [
+"Grass",
+"Flying"
+]
+},
+{
+"id": 358,
+"name": "Chimecho",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 359,
+"name": "Absol",
+"types": [
+"Dark"
+]
+},
+{
+"id": 360,
+"name": "Wynaut",
+"types": [
+"Psychic"
+]
+},
+{
+"id": 361,
+"name": "Snorunt",
+"types": [
+"Ice"
+]
+},
+{
+"id": 362,
+"name": "Glalie",
+"types": [
+"Ice"
+]
+},
+{
+"id": 363,
+"name": "Spheal",
+"types": [
+"Ice",
+"Water"
+]
+},
+{
+"id": 364,
+"name": "Sealeo",
+"types": [
+"Ice",
+"Water"
+]
+},
+{
+"id": 365,
+"name": "Walrein",
+"types": [
+"Ice",
+"Water"
+]
+},
+{
+"id": 366,
+"name": "Clamperl",
+"types": [
+"Water"
+]
+},
+{
+"id": 367,
+"name": "Huntail",
+"types": [
+"Water"
+]
+},
+{
+"id": 368,
+"name": "Gorebyss",
+"types": [
+"Water"
+]
+},
+{
+"id": 369,
+"name": "Relicanth",
+"types": [
+"Water",
+"Rock"
+]
+},
+{
+"id": 370,
+"name": "Luvdisc",
+"types": [
+"Water"
+]
+},
+{
+"id": 371,
+"name": "Bagon",
+"types": [
+"Dragon"
+]
+},
+{
+"id": 372,
+"name": "Shelgon",
+"types": [
+"Dragon"
+]
+},
+{
+"id": 373,
+"name": "Salamence",
+"types": [
+"Dragon",
+"Flying"
+]
+},
+{
+"id": 374,
+"name": "Beldum",
+"types": [
+"Steel",
+"Psychic"
+]
+},
+{
+"id": 375,
+"name": "Metang",
+"types": [
+"Steel",
+"Psychic"
+]
+},
+{
+"id": 376,
+"name": "Metagross",
+"types": [
+"Steel",
+"Psychic"
+]
+},
+{
+"id": 377,
+"name": "Regirock",
+"types": [
+"Rock"
+]
+},
+{
+"id": 378,
+"name": "Regice",
+"types": [
+"Ice"
+]
+},
+{
+"id": 379,
+"name": "Registeel",
+"types": [
+"Steel"
+]
+},
+{
+"id": 380,
+"name": "Latias",
+"types": [
+"Dragon",
+"Psychic"
+]
+},
+{
+"id": 381,
+"name": "Latios",
+"types": [
+"Dragon",
+"Psychic"
+]
+},
+{
+"id": 382,
+"name": "Kyogre",
+"types": [
+"Water"
+]
+},
+{
+"id": 383,
+"name": "Groudon",
+"types": [
+"Ground"
+]
+},
+{
+"id": 384,
+"name": "Rayquaza",
+"types": [
+"Dragon",
+"Flying"
+]
+},
+{
+"id": 385,
+"name": "Jirachi",
+"types": [
+"Steel",
+"Psychic"
+]
+},
+{
+"id": 386,
+"name": "Deoxys",
+"types": [
+"Psychic"
+]
+}
+],
+"moves": [
+"Absorb",
+"Acid",
+"Acid Armor",
+"Aerial Ace",
+"Aeroblast",
+"Agility",
+"Air Cutter",
+"Amnesia",
+"Ancient Power",
+"Arm Thrust",
+"Aromatherapy",
+"Assist",
+"Astonish",
+"Attract",
+"Aurora Beam",
+"Barrage",
+"Barrier",
+"Baton Pass",
+"Beat Up",
+"Belly Drum",
+"Bide",
+"Bind",
+"Bite",
+"Blast Burn",
+"Blaze Kick",
+"Blizzard",
+"Block",
+"Body Slam",
+"Bone Club",
+"Bone Rush",
+"Bonemerang",
+"Bounce",
+"Brick Break",
+"Bubble",
+"Bubble Beam",
+"Bulk Up",
+"Bullet Seed",
+"Calm Mind",
+"Camouflage",
+"Charge",
+"Charm",
+"Clamp",
+"Comet Punch",
+"Confuse Ray",
+"Confusion",
+"Constrict",
+"Conversion",
+"Conversion 2",
+"Cosmic Power",
+"Cotton Spore",
+"Counter",
+"Covet",
+"Crabhammer",
+"Cross Chop",
+"Crunch",
+"Crush Claw",
+"Curse",
+"Cut",
+"Defense Curl",
+"Destiny Bond",
+"Detect",
+"Dig",
+"Disable",
+"Dive",
+"Dizzy Punch",
+"Doom Desire",
+"Double Kick",
+"Double Slap",
+"Double Team",
+"Double-Edge",
+"Dragon Breath",
+"Dragon Claw",
+"Dragon Dance",
+"Dragon Rage",
+"Dream Eater",
+"Drill Peck",
+"Dynamic Punch",
+"Earthquake",
+"Egg Bomb",
+"Ember",
+"Encore",
+"Endeavor",
+"Endure",
+"Eruption",
+"Explosion",
+"Extrasensory",
+"Extreme Speed",
+"Facade",
+"Fake Out",
+"Fake Tears",
+"False Swipe",
+"Feather Dance",
+"Feint Attack",
+"Fire Blast",
+"Fire Punch",
+"Fire Spin",
+"Fissure",
+"Flail",
+"Flame Wheel",
+"Flamethrower",
+"Flash",
+"Flatter",
+"Fly",
+"Focus Energy",
+"Focus Punch",
+"Follow Me",
+"Foresight",
+"Frenzy Plant",
+"Frustration",
+"Fury Attack",
+"Fury Cutter",
+"Fury Swipes",
+"Future Sight",
+"Giga Drain",
+"Glare",
+"Grass Whistle",
+"Growl",
+"Growth",
+"Grudge",
+"Guillotine",
+"Gust",
+"Hail",
+"Harden",
+"Haze",
+"Headbutt",
+"Heal Bell",
+"Heat Wave",
+"Helping Hand",
+"Hidden Power",
+"High Jump Kick",
+"Horn Attack",
+"Horn Drill",
+"Howl",
+"Hydro Cannon",
+"Hydro Pump",
+"Hyper Beam",
+"Hyper Fang",
+"Hyper Voice",
+"Hypnosis",
+"Ice Ball",
+"Ice Beam",
+"Ice Punch",
+"Icicle Spear",
+"Icy Wind",
+"Imprison",
+"Ingrain",
+"Iron Defense",
+"Iron Tail",
+"Jump Kick",
+"Karate Chop",
+"Kinesis",
+"Knock Off",
+"Leaf Blade",
+"Leech Life",
+"Leech Seed",
+"Leer",
+"Lick",
+"Light Screen",
+"Lock-On",
+"Lovely Kiss",
+"Low Kick",
+"Luster Purge",
+"Mach Punch",
+"Magic Coat",
+"Magical Leaf",
+"Magnitude",
+"Mean Look",
+"Meditate",
+"Mega Drain",
+"Mega Kick",
+"Mega Punch",
+"Megahorn",
+"Memento",
+"Metal Claw",
+"Metal Sound",
+"Meteor Mash",
+"Metronome",
+"Milk Drink",
+"Mimic",
+"Mind Reader",
+"Minimize",
+"Mirror Coat",
+"Mirror Move",
+"Mist",
+"Mist Ball",
+"Moonlight",
+"Morning Sun",
+"Mud Shot",
+"Mud Sport",
+"Mud-Slap",
+"Muddy Water",
+"Nature Power",
+"Needle Arm",
+"Night Shade",
+"Nightmare",
+"Octazooka",
+"Odor Sleuth",
+"Outrage",
+"Overheat",
+"Pain Split",
+"Pay Day",
+"Peck",
+"Perish Song",
+"Petal Dance",
+"Pin Missile",
+"Poison Fang",
+"Poison Gas",
+"Poison Powder",
+"Poison Sting",
+"Poison Tail",
+"Pound",
+"Powder Snow",
+"Present",
+"Protect",
+"Psybeam",
+"Psych Up",
+"Psychic",
+"Psycho Boost",
+"Psywave",
+"Pursuit",
+"Quick Attack",
+"Rage",
+"Rain Dance",
+"Rapid Spin",
+"Razor Leaf",
+"Razor Wind",
+"Recover",
+"Recycle",
+"Reflect",
+"Refresh",
+"Rest",
+"Return",
+"Revenge",
+"Reversal",
+"Roar",
+"Rock Blast",
+"Rock Slide",
+"Rock Smash",
+"Rock Throw",
+"Rock Tomb",
+"Role Play",
+"Rolling Kick",
+"Rollout",
+"Sacred Fire",
+"Safeguard",
+"Sand Attack",
+"Sand Tomb",
+"Sandstorm",
+"Scary Face",
+"Scratch",
+"Screech",
+"Secret Power",
+"Seismic Toss",
+"Self-Destruct",
+"Shadow Ball",
+"Shadow Blast",
+"Shadow Blitz",
+"Shadow Bolt",
+"Shadow Break",
+"Shadow Chill",
+"Shadow Down",
+"Shadow End",
+"Shadow Fire",
+"Shadow Half",
+"Shadow Hold",
+"Shadow Mist",
+"Shadow Panic",
+"Shadow Punch",
+"Shadow Rave",
+"Shadow Rush",
+"Shadow Shed",
+"Shadow Sky",
+"Shadow Storm",
+"Shadow Wave",
+"Sharpen",
+"Sheer Cold",
+"Shock Wave",
+"Signal Beam",
+"Silver Wind",
+"Sing",
+"Sketch",
+"Skill Swap",
+"Skull Bash",
+"Sky Attack",
+"Sky Uppercut",
+"Slack Off",
+"Slam",
+"Slash",
+"Sleep Powder",
+"Sleep Talk",
+"Sludge",
+"Sludge Bomb",
+"Smelling Salts",
+"Smog",
+"Smokescreen",
+"Snatch",
+"Snore",
+"Soft-Boiled",
+"Solar Beam",
+"Sonic Boom",
+"Spark",
+"Spider Web",
+"Spike Cannon",
+"Spikes",
+"Spit Up",
+"Spite",
+"Splash",
+"Spore",
+"Steel Wing",
+"Stockpile",
+"Stomp",
+"Strength",
+"String Shot",
+"Struggle",
+"Stun Spore",
+"Submission",
+"Substitute",
+"Sunny Day",
+"Super Fang",
+"Superpower",
+"Supersonic",
+"Surf",
+"Swagger",
+"Swallow",
+"Sweet Kiss",
+"Sweet Scent",
+"Swift",
+"Swords Dance",
+"Synthesis",
+"Tackle",
+"Tail Glow",
+"Tail Whip",
+"Take Down",
+"Taunt",
+"Teeter Dance",
+"Teleport",
+"Thief",
+"Thrash",
+"Thunder",
+"Thunder Punch",
+"Thunder Shock",
+"Thunder Wave",
+"Thunderbolt",
+"Tickle",
+"Torment",
+"Toxic",
+"Transform",
+"Tri Attack",
+"Trick",
+"Triple Kick",
+"Twineedle",
+"Twister",
+"Uproar",
+"Vine Whip",
+"Vise Grip",
+"Vital Throw",
+"Volt Tackle",
+"Water Gun",
+"Water Pulse",
+"Water Sport",
+"Water Spout",
+"Waterfall",
+"Weather Ball",
+"Whirlpool",
+"Whirlwind",
+"Will-O-Wisp",
+"Wing Attack",
+"Wish",
+"Withdraw",
+"Wrap",
+"Yawn",
+"Zap Cannon"
+],
+"abilities": [
+"Air Lock",
+"Arena Trap",
+"Battle Armor",
+"Blaze",
+"Chlorophyll",
+"Clear Body",
+"Cloud Nine",
+"Color Change",
+"Compound Eyes",
+"Cute Charm",
+"Damp",
+"Drizzle",
+"Drought",
+"Early Bird",
+"Effect Spore",
+"Flame Body",
+"Flash Fire",
+"Forecast",
+"Guts",
+"Huge Power",
+"Hustle",
+"Hyper Cutter",
+"Illuminate",
+"Immunity",
+"Inner Focus",
+"Insomnia",
+"Intimidate",
+"Keen Eye",
+"Levitate",
+"Lightning Rod",
+"Limber",
+"Liquid Ooze",
+"Magma Armor",
+"Magnet Pull",
+"Marvel Scale",
+"Minus",
+"Natural Cure",
+"Oblivious",
+"Overgrow",
+"Own Tempo",
+"Pickup",
+"Plus",
+"Poison Point",
+"Pressure",
+"Pure Power",
+"Rain Dish",
+"Rock Head",
+"Rough Skin",
+"Run Away",
+"Sand Stream",
+"Sand Veil",
+"Serene Grace",
+"Shadow Tag",
+"Shed Skin",
+"Shell Armor",
+"Shield Dust",
+"Soundproof",
+"Speed Boost",
+"Static",
+"Stench",
+"Sticky Hold",
+"Sturdy",
+"Suction Cups",
+"Swarm",
+"Swift Swim",
+"Synchronize",
+"Thick Fat",
+"Torrent",
+"Trace",
+"Truant",
+"Vital Spirit",
+"Volt Absorb",
+"Water Absorb",
+"Water Veil",
+"White Smoke",
+"Wonder Guard"
+],
+"items": [
+"Acro Bike",
+"Aguav Berry",
+"Amulet Coin",
+"Antidote",
+"Apicot Berry",
+"Aspear Berry",
+"AuroraTicket",
+"Awakening",
+"Basement Key",
+"Bead Mail",
+"Belue Berry",
+"Berry Juice",
+"Berry Pouch",
+"Bicycle",
+"Big Mushroom",
+"Big Pearl",
+"Bike Voucher",
+"Black Belt",
+"Black Flute",
+"Black Glasses",
+"Blue Flute",
+"Blue Orb",
+"Blue Scarf",
+"Blue Shard",
+"Bluk Berry",
+"Bright Powder",
+"Burn Heal",
+"Calcium",
+"Carbos",
+"Card Key",
+"Charcoal",
+"Cheri Berry",
+"Chesto Berry",
+"Choice Band",
+"Claw Fossil",
+"Cleanse Tag",
+"Coin Case",
+"Contest Pass",
+"Cornn Berry",
+"Deep Sea Scale",
+"Deep Sea Tooth",
+"Devon Goods",
+"Devon Scope",
+"Dire Hit",
+"Dive Ball",
+"Dome Fossil",
+"Dowsing Machine",
+"Dragon Fang",
+"Dragon Scale",
+"Dream Mail",
+"Durin Berry",
+"Elixir",
+"Energy Powder",
+"Energy Root",
+"Enigma Berry",
+"Eon Ticket",
+"Escape Rope",
+"Ether",
+"Everstone",
+"Exp. Share",
+"Fab Mail",
+"Fame Checker",
+"Figy Berry",
+"Fire Stone",
+"Fluffy Tail",
+"Focus Band",
+"Fresh Water",
+"Full Heal",
+"Full Restore",
+"Ganlon Berry",
+"Glitter Mail",
+"Go-Goggles",
+"Gold Teeth",
+"Good Rod",
+"Great Ball",
+"Green Scarf",
+"Green Shard",
+"Grepa Berry",
+"Guard Spec.",
+"HM01",
+"HM02",
+"HM03",
+"HM04",
+"HM05",
+"HM06",
+"HM07",
+"HM08",
+"HP Up",
+"Harbor Mail",
+"Hard Stone",
+"Heal Powder",
+"Heart Scale",
+"Helix Fossil",
+"Hondew Berry",
+"Hyper Potion",
+"Iapapa Berry",
+"Ice Heal",
+"Iron",
+"Kelpsy Berry",
+"King’s Rock",
+"Lansat Berry",
+"Lava Cookie",
+"Lax Incense",
+"Leaf Stone",
+"Leek",
+"Leftovers",
+"Lemonade",
+"Leppa Berry",
+"Letter",
+"Liechi Berry",
+"Lift Key",
+"Light Ball",
+"Lucky Egg",
+"Lucky Punch",
+"Lum Berry",
+"Luxury Ball",
+"Mach Bike",
+"Macho Brace",
+"Magma Emblem",
+"Magnet",
+"Mago Berry",
+"Magost Berry",
+"Master Ball",
+"Max Elixir",
+"Max Ether",
+"Max Potion",
+"Max Repel",
+"Max Revive",
+"Mech Mail",
+"Mental Herb",
+"Metal Coat",
+"Metal Powder",
+"Meteorite",
+"Miracle Seed",
+"Moomoo Milk",
+"Moon Stone",
+"Mystic Water",
+"MysticTicket",
+"Nanab Berry",
+"Nest Ball",
+"Net Ball",
+"Never-Melt Ice",
+"Nomel Berry",
+"Nugget",
+"Old Amber",
+"Old Rod",
+"Old Sea Map",
+"Oran Berry",
+"Orange Mail",
+"PP Max",
+"PP Up",
+"Pamtre Berry",
+"Paralyze Heal",
+"Parcel",
+"Pearl",
+"Pecha Berry",
+"Persim Berry",
+"Petaya Berry",
+"Pinap Berry",
+"Pink Scarf",
+"Poison Barb",
+"Poké Ball",
+"Poké Doll",
+"Poké Flute",
+"Pokéblock Case",
+"Pomeg Berry",
+"Potion",
+"Powder Jar",
+"Premier Ball",
+"Protein",
+"Qualot Berry",
+"Quick Claw",
+"Rabuta Berry",
+"Rainbow Pass",
+"Rare Candy",
+"Rawst Berry",
+"Razz Berry",
+"Red Flute",
+"Red Orb",
+"Red Scarf",
+"Red Shard",
+"Repeat Ball",
+"Repel",
+"Retro Mail",
+"Revival Herb",
+"Revive",
+"Rm. 1 Key",
+"Rm. 2 Key",
+"Rm. 4 Key",
+"Rm. 6 Key",
+"Root Fossil",
+"Ruby",
+"S.S. Ticket",
+"Sacred Ash",
+"Safari Ball",
+"Salac Berry",
+"Sapphire",
+"Scanner",
+"Scope Lens",
+"Sea Incense",
+"Secret Key",
+"Shadow Mail",
+"Sharp Beak",
+"Shell Bell",
+"Shoal Salt",
+"Shoal Shell",
+"Silk Scarf",
+"Silph Scope",
+"Silver Powder",
+"Sitrus Berry",
+"Smoke Ball",
+"Soda Pop",
+"Soft Sand",
+"Soot Sack",
+"Soothe Bell",
+"Soul Dew",
+"Spell Tag",
+"Spelon Berry",
+"Star Piece",
+"Stardust",
+"Starf Berry",
+"Storage Key",
+"Sun Stone",
+"Super Potion",
+"Super Repel",
+"Super Rod",
+"TM Case",
+"TM01",
+"TM02",
+"TM03",
+"TM04",
+"TM05",
+"TM06",
+"TM07",
+"TM08",
+"TM09",
+"TM10",
+"TM11",
+"TM12",
+"TM13",
+"TM14",
+"TM15",
+"TM16",
+"TM17",
+"TM18",
+"TM19",
+"TM20",
+"TM21",
+"TM22",
+"TM23",
+"TM24",
+"TM25",
+"TM26",
+"TM27",
+"TM28",
+"TM29",
+"TM30",
+"TM31",
+"TM32",
+"TM33",
+"TM34",
+"TM35",
+"TM36",
+"TM37",
+"TM38",
+"TM39",
+"TM40",
+"TM41",
+"TM42",
+"TM43",
+"TM44",
+"TM45",
+"TM46",
+"TM47",
+"TM48",
+"TM49",
+"TM50",
+"Tamato Berry",
+"Tea",
+"Teachy TV",
+"Thick Club",
+"Thunder Stone",
+"Timer Ball",
+"Tiny Mushroom",
+"Town Map",
+"Tri-Pass",
+"Tropic Mail",
+"Twisted Spoon",
+"Ultra Ball",
+"Upgrade",
+"Vs. Seeker",
+"Wailmer Pail",
+"Water Stone",
+"Watmel Berry",
+"Wave Mail",
+"Wepear Berry",
+"White Flute",
+"White Herb",
+"Wiki Berry",
+"Wood Mail",
+"X Accuracy",
+"X Attack",
+"X Defense",
+"X Sp. Atk",
+"X Speed",
+"Yellow Flute",
+"Yellow Scarf",
+"Yellow Shard",
+"Zinc"
+]
+}
